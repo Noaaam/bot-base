@@ -33,8 +33,7 @@ For start you must take you're token bot and put this in the file named ``config
 
 ## About the project
 
-Updates will be done very frequently so do not hesitate to put a star to stay informed...
-This project has been created for the new person intersted for code.
+Updates will be done very frequently so do not hesitate to put a star to stay informed, this project has been created for the new person intersted for code.
 
 Made with ❤️ by Noam.
 
